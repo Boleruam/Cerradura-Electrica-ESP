@@ -2,8 +2,8 @@
   "firmware": [
     {
       "version": "0.1.0",
-      "file": "firmware_v1.0.bin",
-      "url": "https://github.com/username/repo/raw/main/firmware/firmware_v1.0.bin"
+      "file": "SUPERLED.ino.bin",
+      "url": "https://github.com/Boleruam/Cerradura-Electrica-ESP/releases/download/v0.1.0/SUPERLED.ino.bin"
     }
     
   ]
