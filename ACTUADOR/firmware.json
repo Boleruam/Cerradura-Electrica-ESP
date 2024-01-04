@@ -1,0 +1,14 @@
+{
+  "firmware": [
+    {
+      "version": "1.0",
+      "file": "firmware_v1.0.bin",
+      "url": "https://github.com/username/repo/raw/main/firmware/firmware_v1.0.bin"
+    },
+    {
+      "version": "2.0",
+      "file": "firmware_v2.0.bin",
+      "url": "https://github.com/username/repo/raw/main/firmware/firmware_v2.0.bin"
+    }
+  ]
+}
