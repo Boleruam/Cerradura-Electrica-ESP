@@ -1,7 +1,7 @@
 {
   "firmware": [
     {
-      "version": "0.2.0",
+      "version": "0.3.0",
       "file": "SUPERLED.ino.bin",
       "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/739137176/a898fa6e-67ad-45b5-b38f-3fb350178ba1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240106T030645Z&X-Amz-Expires=300&X-Amz-Signature=9ba397edf64f7067110f8f3eb5d913c26d6dcbee85c247501dd82d82917f6a9c&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=739137176&response-content-disposition=attachment%3B%20filename%3DSUPERLED.ino.bin&response-content-type=application%2Foctet-stream"
     }
