@@ -1,10 +1,9 @@
 {
   "firmware": [
     {
-      "version": "0.4.0",
+      "version": "0.5.0",
       "file": "SUPERLED.ino.bin",
-      "url":  "https://objects.githubusercontent.com/github-production-release-asset-2e65be/739137176/ba3f48d6-af98-4ddd-a0aa-eae47077f4f2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240106T032754Z&X-Amz-Expires=300&X-Amz-Signature=58e09557c853614825339ecaf984ddd2d04dd9db87fdb34e6f6087892be8df0e&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=739137176&response-content-disposition=attachment%3B%20filename%3DSUPERLED.ino.bin&response-content-type=application%2Foctet-stream"
-    }
-    
+      "url":  "https://objects.githubusercontent.com/github-production-release-asset-2e65be/739137176/a7221fd9-1ca9-4934-a18e-5557ed06ecb2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240107T205808Z&X-Amz-Expires=300&X-Amz-Signature=8771d9c131d4faa72c3af769eb7f9086985d7f51e6d17066393571569ffb3f79&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=739137176&response-content-disposition=attachment%3B%20filename%3DSUPERLED.ino.bin&response-content-type=application%2Foctet-stream"
+    }    
   ]
 }
