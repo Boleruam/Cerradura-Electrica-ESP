@@ -1,7 +1,7 @@
 {
   "firmware": [
     {
-      "version": "0.0.1",
+      "version": "0.0.0"
       "file": "CLIENTE_BLYNK.ino.bin",
       "url":  "https://raw.githubusercontent.com/Boleruam/Cerradura-Electrica-ESP/main/CLIENTE_BLYNK.ino.bin"      
     }  
