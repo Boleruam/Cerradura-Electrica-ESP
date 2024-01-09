@@ -1,9 +1,0 @@
-{
-  "firmware": [
-    {
-      "version": "0.0.1"
-      "file": "SUPERLED.ino.bin",
-      "url":  "https://raw.githubusercontent.com/Boleruam/Cerradura-Electrica-ESP/main/SUPERLED.ino.bin"      
-    }  
-  ]
-}
